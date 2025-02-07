@@ -32,10 +32,6 @@ Implement a virtual try-on feature using generative AI that allows customers to 
 ---
 
 ## Tech Stack
-- **Backend:** Python, Flask/FastAPI (for API services)
-- **AI Models:** GANs (e.g., StyleGAN, CycleGAN)
-- **Frontend:** React.js (for dashboard or user interface)
-- **Database:** PostgreSQL or MongoDB (for storing product data)
-- **Deployment:** Docker, Kubernetes (for containerization and scaling)
+- **Backend:** Python
 
 ---
